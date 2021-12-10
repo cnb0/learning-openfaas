@@ -1,6 +1,6 @@
-# learning-openfaas
+# learning-OpenFaaS
 
-[Openfaas](https://www.openfaas.com/)
+[OpenFaaS](https://www.openfaas.com/)
 
       - Introduction
       - Overview of OpenFaas Architecture

@@ -2,6 +2,15 @@
 
 [OpenFaaS](https://www.openfaas.com/)
 
+FaaS is serviceless serverless.
+
+Serverless is anything when you don't need to manage servers. FaaS is when you don't need to manage services.
+
+Making an OOP analogy:
+- Services are Objects.
+- API Endpoints are Methods.
+- FaaS are pure Callback Functions.
+
       - OpenFaas Architecture
       - OpenFaaS Install/Config
       - Preparing the Development Environment

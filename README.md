@@ -1,6 +1,7 @@
 # learning-OpenFaaS
 
-[OpenFaaS](https://www.openfaas.com/)
+- [OpenFaaS](https://www.openfaas.com/)
+- [OpenFaaS Yaml Reference](https://docs.openfaas.com/reference/yaml/)
 
 FaaS is serviceless serverless.
 
